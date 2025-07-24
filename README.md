@@ -1,5 +1,9 @@
 # 24일차
 
+로보플로우 내에서 30분 정도 모델 train하는 모습, 근데 이 방식 안하고도 Download Dataset을 수동으로 눌러서 api가 담긴 코드를 얻었었다.<br>
+<img width="958" height="956" alt="image" src="https://github.com/user-attachments/assets/15aa1dcd-4208-4e41-a795-f4528e614a8b" />
+
+
 ## 1. 로보플로우 마무리, 내가 전이학습한 모델을 유튜브 동영상에 적용해보기.
 1. 먼저, 첫 실행때 생기는 /content/traffic-detection-1/data.yaml 파일 내부를 수정해야한다.<br>
 <img width="337" height="623" alt="image" src="https://github.com/user-attachments/assets/49634712-4b6b-43a7-98c7-2defff01d96e" /><br>
