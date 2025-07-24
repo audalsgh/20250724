@@ -10,7 +10,7 @@ Colab 내 실제 폴더 구조인 traffic-detection-1/train/images 경로로 맞
 <img width="2037" height="729" alt="image" src="https://github.com/user-attachments/assets/bb60bc9b-dd8e-41fb-865d-f24c6d341a86" /><br>
 이제 오류없이 에포크가 실행된다
 
-2. 두번째 실행때 전이학습이 성공하기에, 두번째 경로인 /content/runs/detect/traffic-custom2/weights/best.pt 에서 다운받으면 된다.
+2. 두번째 실행때 전이학습이 성공하기에, 모델은 두번째 경로인 /content/runs/detect/traffic-custom2/weights/best.pt 에서 다운받으면 된다.
 <img width="340" height="474" alt="image" src="https://github.com/user-attachments/assets/07599b04-852a-4a7d-bed7-884cd3691bb7" />
 
 3. 결과영상은 runs/detect/video-result/ 내부에 "temp_video" 라는 이름으로 되어있고, 점선을 많이 라벨링해서 그런지 점선은 잘 인식된다.
