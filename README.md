@@ -12,7 +12,7 @@ train: ../train/images<br>
 val: ../train/images<br>
 
 <img width="2037" height="729" alt="image" src="https://github.com/user-attachments/assets/bb60bc9b-dd8e-41fb-865d-f24c6d341a86" /><br>
-이제 오류없이 에포크가 실행된다
+이제 오류없이 /train/images 경로에 있는 이미지를 토대로 에포크가 실행된다
 
 2. 두번째 실행때 전이학습이 성공하기에, 모델은 두번째 경로인 /content/runs/detect/traffic-custom2/weights/best.pt 에서 다운받으면 된다.
 <img width="340" height="474" alt="image" src="https://github.com/user-attachments/assets/07599b04-852a-4a7d-bed7-884cd3691bb7" />
