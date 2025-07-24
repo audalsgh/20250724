@@ -22,7 +22,7 @@ val: ../train/images<br>
 3. 결과영상은 runs/detect/video-result/ 내부에 "temp_video" 라는 이름으로 되어있고, 점선을 많이 라벨링해서 그런지 점선은 잘 인식된다.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0e3bf4bb-950c-4ddd-8a0a-33b116af2412" />
 
-## 2. NVIDIA TAO와 lane rat은 어떤내용이고 코드는 어떻게 되있는지 조사.
+## 2. NVIDIA TAO와 lanenet은 어떤내용이고 코드는 어떻게 되있는지 조사.
 NVIDIA TAO Toolkit은 다양한 딥러닝 모델을 사전 학습(pre-trained)된 상태로 제공하고,<br>
 전이학습(fine-tuning)을 통해 자신의 데이터에 맞게 재학습할 수 있도록 돕는 도구.<br>
 
