@@ -25,6 +25,7 @@ val: ../train/images<br>
 ## 2. NVIDIA TAO와 lanenet은 어떤내용이고 코드는 어떻게 되있는지 조사.
 NVIDIA TAO Toolkit은 다양한 딥러닝 모델을 사전 학습(pre-trained)된 상태로 제공하고,<br>
 전이학습(fine-tuning)을 통해 자신의 데이터에 맞게 재학습할 수 있도록 돕는 도구.<br>
+[김종훈 형이 정리한 깃허브 링크](https://github.com/Kim-jong-hoon/Nvidia-tao-Lanenet/blob/main/README.md)
 
 ### 자율주행에 활용 가능한 대표적인 모델 목록
 | 모델 이름                    | 용도                      | 모델 아키텍처              | 비고             |
