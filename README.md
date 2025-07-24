@@ -13,7 +13,6 @@
 test: ../train/images<br>
 train: ../train/images<br>
 val: ../train/images<br>
-
 <img width="2037" height="729" alt="image" src="https://github.com/user-attachments/assets/bb60bc9b-dd8e-41fb-865d-f24c6d341a86" /><br>
 이제 오류없이 /train/images 경로에 있는 이미지를 토대로 에포크가 실행된다
 
